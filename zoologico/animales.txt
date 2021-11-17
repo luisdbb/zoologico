@@ -1,0 +1,7 @@
+Los animales del zoo de edad mayor o igual a 4 años son:1 : Peggy (Sus scrofa domestica) de 8 años.
+5 : Cervantes (Testudines) de 18 años.
+7 : Dama alargada (Giraffa camelopardalis) de 8 años.
+10 : Dambo (Elephantidae) de 12 años.
+16 : Z (Myrmecia pilosula) de 4 años.
+17 : Lili (Panthera leo) de 4 años.
+19 : Loly (Agapornis) de 6 años.
