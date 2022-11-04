@@ -17,10 +17,13 @@ public class Animal implements Serializable{
     protected int id;
     protected String especie;
     protected String nombre;
-    protected int edad = 0;
+    protected int edad = 10;
     protected Informe informe;
     protected ArrayList<Veterinario> veterinarios = new ArrayList<Veterinario>();
 
+    
+    
+    
     public int getId() {
         return id;
     }

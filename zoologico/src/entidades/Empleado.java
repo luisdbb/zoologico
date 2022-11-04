@@ -19,6 +19,8 @@ public class Empleado implements Serializable {
     protected String nombre;
     protected String email;
     protected String telefono;
+    
+    protected String apellidos;
 
     public int getId() {
         return id;
